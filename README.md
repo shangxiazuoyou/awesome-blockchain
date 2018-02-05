@@ -11,3 +11,5 @@
 - [blockchain-tutorial](https://github.com/liuchengxu/blockchain-tutorial)
 
 - [CryptoList](https://github.com/coinpride/CryptoList) -Curated collection of blockchain & cryptocurrency resources
+
+- [Python 从零开始构建自己的比特币区块链系统](https://zhuanlan.zhihu.com/p/32966939)
