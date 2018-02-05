@@ -9,3 +9,5 @@
 - [区块链技术指南](https://gitlore.com/subject/59)
 
 - [blockchain-tutorial](https://github.com/liuchengxu/blockchain-tutorial)
+
+- [CryptoList](https://github.com/coinpride/CryptoList) -Curated collection of blockchain & cryptocurrency resources
